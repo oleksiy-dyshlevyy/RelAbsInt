@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/RelAbsInt/RelAbsInt/RelAbsInt.csproj": {}
+    "/workspaces/RelAbsInt/RelAbsInt.csproj": {}
   },
   "projects": {
-    "/workspaces/RelAbsInt/RelAbsInt/RelAbsInt.csproj": {
+    "/workspaces/RelAbsInt/RelAbsInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/RelAbsInt/RelAbsInt/RelAbsInt.csproj",
+        "projectUniqueName": "/workspaces/RelAbsInt/RelAbsInt.csproj",
         "projectName": "RelAbsInt",
-        "projectPath": "/workspaces/RelAbsInt/RelAbsInt/RelAbsInt.csproj",
+        "projectPath": "/workspaces/RelAbsInt/RelAbsInt.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/RelAbsInt/RelAbsInt/obj/",
+        "outputPath": "/workspaces/RelAbsInt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

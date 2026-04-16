@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+             "name": "RelAbsInt",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "RelAbsInt.csproj"
+      //${workspaceFolder}/
+        }
+    ]
+}
