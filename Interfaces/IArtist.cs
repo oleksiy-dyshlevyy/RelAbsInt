@@ -16,43 +16,43 @@ namespace RelAbsInt.Interfaces;
 
     }
 
-    // public interface ISingable
-    // {
-    //     void SingSong(string songName);
-    // }
+    public interface ISingable
+    {
+        void SingSong(string songName);
+    }
 
-    // public interface IDanceable
-    // {
-    //     void Dance();
-    // }
+    public interface IDanceable
+    {
+        void Dance();
+    }
 
-    // public interface IPoetryDeclamation
-    // {
-    //     void DeclaimPoem();
+    public interface IPoetryDeclamation
+    {
+        void DeclaimPoem();
 
-    // }
+    }
 
-    // public class Singer : ISingable, IDanceable
-    // {
-    //     public void SingSong(string songName)
-    //     {
-    //         Console.WriteLine(songName);
-    //     }
-    //     public void Dance()
-    //     {
-    //     }
+    public class Singer : ISingable, IDanceable
+    {
+        public void SingSong(string songName)
+        {
+            Console.WriteLine(songName);
+        }
+        public void Dance()
+        {
+        }
 
-    // }
+    }
 
-    // public class Band: ISingable, IPoetryDeclamation
-    // {
-    //     public void SingSong(string songName)
-    //     {
-    //         Console.WriteLine(songName);
-    //     }
-    //     public void DeclaimPoem()
-    //     {
+    public class Band: ISingable, IPoetryDeclamation
+    {
+        public void SingSong(string songName)
+        {
+            Console.WriteLine(songName);
+        }
+        public void DeclaimPoem()
+        {
 
-    //     }
-    // }
+        }
+    }
 

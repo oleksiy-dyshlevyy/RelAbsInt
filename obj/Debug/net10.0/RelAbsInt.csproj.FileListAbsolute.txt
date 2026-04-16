@@ -1,0 +1,15 @@
+/workspaces/RelAbsInt/bin/Debug/net10.0/RelAbsInt
+/workspaces/RelAbsInt/bin/Debug/net10.0/RelAbsInt.deps.json
+/workspaces/RelAbsInt/bin/Debug/net10.0/RelAbsInt.runtimeconfig.json
+/workspaces/RelAbsInt/bin/Debug/net10.0/RelAbsInt.dll
+/workspaces/RelAbsInt/bin/Debug/net10.0/RelAbsInt.pdb
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.AssemblyInfoInputs.cache
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.AssemblyInfo.cs
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.csproj.CoreCompileInputs.cache
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.sourcelink.json
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.dll
+/workspaces/RelAbsInt/obj/Debug/net10.0/refint/RelAbsInt.dll
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.pdb
+/workspaces/RelAbsInt/obj/Debug/net10.0/RelAbsInt.genruntimeconfig.cache
+/workspaces/RelAbsInt/obj/Debug/net10.0/ref/RelAbsInt.dll

@@ -8,7 +8,7 @@ class Program
      
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+           
 
            
             #region Lec - Interfaces
@@ -18,29 +18,29 @@ class Program
 
 
              UkrainianArtist person1 = new UkrainianArtist();
-        //     FranchArtist person2 = new FranchArtist();
-        //     person1.Magic();
+             FranchArtist person2 = new FranchArtist();
+             person1.Magic();
 
-        //     IArtist p;// = new UkrainianArtist();
+             IArtist p = new UkrainianArtist();
             
-        //     p = person1;
-        //     p.SingSong();
-        //     p = person2;
-        //     p.SingSong();
+            p = person1;
+            p.SingSong();
+            p = person2;
+            p.SingSong();
 
-        //     AB ab = new AB();
-        //     ab.Method();
-        //     ab.Method1();
+            AB ab = new AB();
+            ab.Method();
+            ab.Method1();
           
-        //     InterfaceA interfaceA = new AB();
-        //     interfaceA.Method();
-        //    // interfaceA.Method1();
+            InterfaceA interfaceA = new AB();
+            interfaceA.Method();
+           // interfaceA.Method1();
 
-        //     InterfaceB interfaceB = new AB();
-        //     interfaceB.Method();
+            InterfaceB interfaceB = new AB();
+            interfaceB.Method();
 
-        //     char cc = ab.MethodA();
-        //     cc = ab.MethodB();
+            char cc = ab.MethodA();
+            cc = ab.MethodB();
 
             #endregion
            
