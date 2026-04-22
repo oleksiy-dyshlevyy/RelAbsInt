@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RelAbsInt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5642d6debdf4d7d9012b3818001ef9903cf057f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a457750f7f13719afd7e962fcee77cb6e82e0b7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RelAbsInt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RelAbsInt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
